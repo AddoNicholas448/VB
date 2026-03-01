@@ -1,0 +1,8 @@
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.Form1.resources
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.Form2.resources
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.Resources.resources
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.vbproj.GenerateResource.cache
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.AssemblyInfoInputs.cache
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.AssemblyInfo.vb
+C:\Users\NICHOLAS\Desktop\VB\Student_Information\obj\Debug\net10.0-windows\Student_Information.vbproj.CoreCompileInputs.cache
